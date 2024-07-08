@@ -9,7 +9,7 @@ You'll need the [beep](https://man.archlinux.org/man/beep.1.en) package. This pa
 sudo pacman -S beep
 ```
 
-Go to a directory that you with to have the script, and clone it:
+Go to a directory that you wish to have the script, and clone it:
 ```
 git clone https://github.com/matheusfladislau/happy-bday-ju
 ```
